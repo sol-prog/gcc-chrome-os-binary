@@ -11,6 +11,8 @@ You need to have the [Developer Mode](https://solarianprogrammer.com/2017/09/11/
 
 git clone https://github.com/sol-prog/gcc-chrome-os-binary.git
 
+I highly recommend that you read my article, you can skip the actual GCC build part.
+
 In order to install this binary extract gcc-7.2.0.tar.bz2 and copy the extracted folder (gcc-7.2) in your /usr/local folder.
 
 Using the new compilers (gcc-7.2, g++-7.2 and gfortran-7.2) require that you modify your path, paste the next line in a shell tab:
